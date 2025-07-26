@@ -1,2 +1,2 @@
 # Multiple-disease-prediction-model
-Deploying a Machine learning web app using streamlit on heroku
+Deploying a Machine Learning Web App Using Streamlit on Streamlit Community Cloud.
